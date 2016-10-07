@@ -1,6 +1,6 @@
 # Hale-Bopp
 
-A beautiful and calming theme for your OS X terminal.
+A beautiful and calming theme for your macOS terminal.
 
 <img src="https://cloud.githubusercontent.com/assets/3776198/12872486/0080c84e-cda4-11e5-8bf7-625f36ce14b0.png" width="687" height="471" alt>
 
